@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:F7F5F0,50:E9E4D8,100:D9CFB8&text=Deivid%20Gabriel%20Leandro&fontColor=9E7838&fontSize=44&fontAlignY=40&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o%20%C2%B7%20C%23%20%E2%80%A2%20.NET&descSize=17&descAlignY=62&descColor=6B5A3A" alt="Deivid Gabriel Leandro" width="100%">
+  <img src="banner.png" alt="Deivid Gabriel Leandro · Desenvolvedor em formação · C# · .NET · Hyerofania" width="100%">
 </p>
 
 <p align="center">
@@ -9,16 +9,17 @@
 
 ---
 
-## 🏛️ Sobre mim
+## Sobre mim
 
-- 🎓 Estudante de **Programação de Jogos Digitais** no **SENAI**
-- 💻 Aprendo construindo: transformo o que estudo em aplicações reais, com banco de dados, versionamento e organização de projeto
-- 📱 Agora estou desenvolvendo apps mobile com **.NET MAUI** e **SQLite**
-- 🔐 Tenho interesse em **desenvolvimento de software**, **cibersegurança** e projetos que unem **software e hardware**
+- Estudante de **Programação de Jogos Digitais** no **SENAI**
+- Aprendo construindo: transformo o que estudo em aplicações reais, com banco de dados, versionamento e organização de projeto
+- Agora estou desenvolvendo o **Hermes**, um site full-stack com API em **ASP.NET Core**, **PostgreSQL** e **JavaScript**
+- Já desenvolvi um app mobile completo com **.NET MAUI** e **SQLite**
+- Tenho interesse em **desenvolvimento de software**, **cibersegurança** e projetos que unem **software e hardware**
 
 ---
 
-## ⚡ Hyerofania
+## Hyerofania
 
 > *Hierofania: a manifestação do sagrado. Do grego* hierós *(sagrado) +* phaínein *(mostrar).*
 
@@ -26,13 +27,37 @@ A **Hyerofania** é a marca dos meus projetos. Cada um recebe o nome de um deus 
 
 O primeiro é o **ATHENA**, com o nome da deusa da sabedoria: um app que organiza os estudos.
 
+O segundo é o **HERMES**, com o nome do mensageiro dos deuses: um site que leva as suas mensagens até as IAs.
+
 ---
 
-## 🏺 Projetos em destaque
+## Projetos em destaque
 
-### 🦉 ATHENA · Aplicativo
+### HERMES · Site de chat com IA *(em desenvolvimento)*
 
-Aplicativo Android para organizar os estudos: cronômetro, metas, sessões com a anotação do que foi estudado e uma assistente com IA. É o meu maior projeto até agora.
+<img align="left" src="icone-hermes.png" alt="Ícone do Hermes" width="96">
+
+Site full-stack para conversar com IAs num só lugar, com a sua própria chave de API e as conversas guardadas. A **v1.0 já está no ar**, com login por token JWT e chaves e mensagens criptografadas no banco. Os próximos passos são usar várias IAs ao mesmo tempo e colocar IAs diferentes para trabalhar juntas.
+
+<br clear="left">
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+→ [**Ver o projeto**](https://github.com/DeividGabrielLeandro/Hermes) · [**Abrir o site**](https://hermes-b1r.pages.dev)
+
+### ATHENA · Aplicativo
+
+<img align="left" src="icone_B_estatua.png" alt="Ícone do ATHENA" width="96">
+
+Aplicativo Android para organizar os estudos: cronômetro, metas, sessões com a anotação do que foi estudado e uma assistente com IA. Começou como uma [versão de terminal](https://github.com/DeividGabrielLeandro/Sistema-de-Estudo-CSharp) em C# e SQL Server, e virou o aplicativo que eu uso todo dia para contar o meu tempo de estudo.
+
+<br clear="left">
 
 ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)
@@ -40,21 +65,9 @@ Aplicativo Android para organizar os estudos: cronômetro, metas, sessões com a
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-➜ [**Ver o projeto**](https://github.com/DeividGabrielLeandro/ATHENA-Aplicativo)
+→ [**Ver o projeto**](https://github.com/DeividGabrielLeandro/ATHENA-Aplicativo)
 
-### 📟 ATHENA · Versão terminal
-
-Onde o ATHENA nasceu: um gerenciador de estudos no terminal, com login, metas, categorias, sessões e estatísticas.
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
-![Spectre.Console](https://img.shields.io/badge/Spectre.Console-5A5A5A?style=flat-square)
-![BCrypt](https://img.shields.io/badge/BCrypt-5A5A5A?style=flat-square)
-
-➜ [**Ver o projeto**](https://github.com/DeividGabrielLeandro/Sistema-de-Estudo-CSharp)
-
-### 🔦 Comunicação óptica com laser
+### Comunicação óptica com laser
 
 Transforma uma mensagem em binário, envia pelo feixe de um laser controlado por um Arduino e reconstrói o texto no computador com um ESP32 e um sensor de luz.
 
@@ -63,15 +76,15 @@ Transforma uma mensagem em binário, envia pelo feixe de um laser controlado por
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
-➜ [**Ver o projeto**](https://github.com/DeividGabrielLeandro/Comunicacao-Via-Laser) · [**Ver a demonstração**](https://youtu.be/H8zstGOGnCA)
+→ [**Ver o projeto**](https://github.com/DeividGabrielLeandro/Comunicacao-Via-Laser) · [**Ver a demonstração**](https://youtu.be/H8zstGOGnCA)
 
 ---
 
-## 🏆 Experiências
+## Experiências
 
 ### Grand Prix SENAI de Inovação · Equipe CODEX
 
-🥉 **3º lugar na etapa regional**
+**3º lugar na etapa regional**
 
 Desafio de inovação proposto pela **Piracanjuba**. Em equipe, desenvolvemos uma solução para um problema real da empresa, da ideia até a apresentação. Foi uma experiência de trabalho em equipe em uma iniciativa de tecnologia, com prazo e pressão de verdade.
 
@@ -82,37 +95,51 @@ Desafio de inovação proposto pela **Piracanjuba**. Em equipe, desenvolvemos um
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 **Linguagens e plataformas**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Bancos de dados**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Ferramentas**
+**Segurança**
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![AES-256-GCM](https://img.shields.io/badge/AES--256--GCM-5A5A5A?style=for-the-badge)
+![BCrypt](https://img.shields.io/badge/BCrypt-5A5A5A?style=for-the-badge)
+
+**Ferramentas e hospedagem**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 **Aprendendo**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=DeividGabrielLeandro&show_icons=true&hide_border=false&bg_color=F7F5F0&title_color=9E7838&icon_color=9E7838&text_color=3A3A3A&border_color=D9CFB8" alt="Estatísticas do GitHub" height="165">
@@ -125,13 +152,13 @@ Desafio de inovação proposto pela **Piracanjuba**. Em equipe, desenvolvemos um
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Estou construindo meu portfólio para entrar na área de tecnologia. **Busco uma oportunidade de estágio remoto em desenvolvimento**, onde eu possa continuar evoluindo e transformar estudo em experiência profissional.
 
 ---
 
-## 📫 Contato
+## Contato
 
 <p>
   <a href="mailto:deividgabrielleandro26@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
@@ -142,5 +169,5 @@ Estou construindo meu portfólio para entrar na área de tecnologia. **Busco uma
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:D9CFB8,50:E9E4D8,100:F7F5F0&text=Hyerofania&fontColor=9E7838&fontSize=26&fontAlignY=55" alt="Hyerofania" width="100%">
+  <img src="rodape.png" alt="Hyerofania" width="100%">
 </p>
